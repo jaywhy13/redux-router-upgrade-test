@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { push } from 'redux-router';
+import { push } from 'connected-react-router';
 import { newEntry } from './actions';
 
 export class NewEntry extends Component {
