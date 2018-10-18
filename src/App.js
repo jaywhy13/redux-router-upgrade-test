@@ -1,28 +1,66 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import { push } from 'redux-router';
+
+import { connect } from 'react-redux';
 
 class App extends Component {
+  constructor() {
+    super();
+    this.goToEntry = this.goToEntry.bind(this);
+  }
+
   render() {
+    const { entries } = this.props;
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <h1>My Journal</h1>
+        <div>
+          <ul>
+            <li>
+              <a href="#" onClick={this.props.onAddEntry}>
+                New Entry
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div>
+          {entries.map(entry => (
+            <li key={entry.id}>
+              <a href="#" onClick={() => this.goToEntry(entry.id)}>
+                {entry.title}
+              </a>
+            </li>
+          ))}
+        </div>
+        <div className="children">{this.props.children}</div>
       </div>
     );
   }
-}
 
-export default App;
+  goToEntry(id) {
+    this.props.onGoToEntry(id);
+  }
+}
+const mapStateToProps = state => {
+  console.log('state', state);
+  return {
+    entries: state.app.entries,
+  };
+};
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onAddEntry: () => {
+      dispatch(push('/new-entry'));
+    },
+    onGoToEntry: id => {
+      dispatch(push('/entry/' + id));
+    },
+  };
+};
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps,
+)(App);
