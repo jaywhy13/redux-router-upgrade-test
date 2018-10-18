@@ -1,0 +1,1396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"child_bu",
+				"child_budget_datas\t  [HERE]"
+			],
+			[
+				"cate",
+				"category_slug\t  [HERE]"
+			],
+			[
+				"child_b",
+				"child_budgets\t  [HERE]"
+			],
+			[
+				"BudgetU",
+				"BudgetUpdateView\t  [HERE]"
+			],
+			[
+				"child_",
+				"child_budget_data\t  [HERE]"
+			],
+			[
+				"accoun",
+				"account\t  whatyouspend/factories.py"
+			],
+			[
+				"tranasc",
+				"transaction\t  [HERE]"
+			],
+			[
+				"uui",
+				"uuid4"
+			],
+			[
+				"expense_ca",
+				"expense_category_data\t  tests/test_viewsets.py"
+			],
+			[
+				"ExpenseFac",
+				"ExpenseCategoryFactory\tclass"
+			],
+			[
+				"exp",
+				"expense_data\t  [HERE]"
+			],
+			[
+				"http_me",
+				"http_method_func\t  [HERE]"
+			],
+			[
+				"income_",
+				"income_category\t  [HERE]"
+			],
+			[
+				"Tran",
+				"TransactionViewSet\tclass"
+			],
+			[
+				"Catego",
+				"CategoryViewSet\tclass"
+			],
+			[
+				"tran",
+				"transactions_url\t  [HERE]"
+			],
+			[
+				"views",
+				"viewsets\t  [HERE]"
+			],
+			[
+				"div_id",
+				"div_id_category\t  [HERE]"
+			],
+			[
+				"tranc",
+				"transaction_type\t  [HERE]"
+			],
+			[
+				"sugge",
+				"suggestion\t  [HERE]"
+			],
+			[
+				"transac",
+				"transaction\t  [HERE]"
+			],
+			[
+				"tranas",
+				"transactions\tstatement"
+			],
+			[
+				"exec",
+				"execute_search\t  [HERE]"
+			],
+			[
+				"wid",
+				"width\tAttr"
+			],
+			[
+				"pr",
+				"profile_url\tstatement"
+			],
+			[
+				"Prof",
+				"ProfileView\tclass"
+			],
+			[
+				"url",
+				"url\t  [HERE]"
+			],
+			[
+				"UserPr",
+				"UserProfileForm\tclass"
+			],
+			[
+				"UserPro",
+				"UserProfileForm\t  [HERE]"
+			],
+			[
+				"get_re",
+				"get_response_mock\t  [HERE]"
+			],
+			[
+				"get_curr",
+				"get_current_timezone\t  [HERE]"
+			],
+			[
+				"get_curre",
+				"get_current_timezone_mock\t  [HERE]"
+			],
+			[
+				"Trana",
+				"Transaction"
+			],
+			[
+				"mess",
+				"messaging_mock\t  [HERE]"
+			],
+			[
+				"category_n",
+				"category_name_to_delete\tstatement"
+			],
+			[
+				"child_ca",
+				"child_category\t  [HERE]"
+			],
+			[
+				"new_ca",
+				"new_category_names\t  [HERE]"
+			],
+			[
+				"old_cate",
+				"old_category\t  [HERE]"
+			],
+			[
+				"catego",
+				"categories\t  [HERE]"
+			],
+			[
+				"cateo",
+				"categories\t  [HERE]"
+			],
+			[
+				"DEFAULT_",
+				"DEFAULT_EXPENSE_CATEGORIES\t  [HERE]"
+			],
+			[
+				"transacTy",
+				"transactionType\t  [HERE]"
+			],
+			[
+				"transactionTy",
+				"transactionTypeHtml\t  [HERE]"
+			],
+			[
+				"getCa",
+				"getCategoryTransactionType\t  [HERE]"
+			],
+			[
+				"getCate",
+				"getCategoryParent\t  [HERE]"
+			],
+			[
+				"subca",
+				"sub_category_icon\t  [HERE]"
+			],
+			[
+				"iter",
+				"iterable\t  [HERE]"
+			],
+			[
+				"tra",
+				"transaction\tstatement"
+			],
+			[
+				"Exp",
+				"ExpenseCategoryFactory"
+			],
+			[
+				"Transa",
+				"Transaction\t  [HERE]"
+			],
+			[
+				"Expen",
+				"ExpenseCategoryFactory\t  [HERE]"
+			],
+			[
+				"Ex",
+				"ExpenseCategoryFactory\tclass"
+			],
+			[
+				"category_li",
+				"category_list\t  [HERE]"
+			],
+			[
+				"category_lis",
+				"category_lists\t  [HERE]"
+			],
+			[
+				"ic",
+				"icon\t  [HERE]"
+			],
+			[
+				"categor",
+				"category\t  [HERE]"
+			],
+			[
+				"categoryl",
+				"category_lists\t  [HERE]"
+			],
+			[
+				"DEFAULT",
+				"DEFAULT_EXPENSE_CATEGORIES\t  [HERE]"
+			],
+			[
+				"call-t",
+				"call-to-action-buttons\t  whatyouspend/home.html"
+			],
+			[
+				"get_user",
+				"get_user_model\t  tests/test_views.py"
+			],
+			[
+				"dashbo",
+				"dashboard_url\tstatement"
+			],
+			[
+				"USE",
+				"USE_ELASTICSEARCH\t  [HERE]"
+			],
+			[
+				"ELASTCI",
+				"ELASTICSEARCH_DSL_AUTOSYNC\t  [HERE]"
+			],
+			[
+				"d",
+				"decorators"
+			],
+			[
+				"form",
+				"forms\t  [HERE]"
+			],
+			[
+				"get_ob",
+				"get_object_or_404\t  [HERE]"
+			],
+			[
+				"_l",
+				"_login_as_user\tfunction"
+			],
+			[
+				"Privac",
+				"PrivacyPolicyView\t  [HERE]"
+			],
+			[
+				"get_us",
+				"get_user_model\t  [HERE]"
+			],
+			[
+				"bs3-col",
+				"bs3-col:12\tbs3-col-12"
+			],
+			[
+				"transa",
+				"transaction\t  [HERE]"
+			],
+			[
+				"trans",
+				"transaction\t  [HERE]"
+			],
+			[
+				"assert_resp",
+				"assert_response_has_one_tranasction"
+			],
+			[
+				"TransactionMix",
+				"TransactionContextMixin\t  [HERE]"
+			],
+			[
+				"assert_re",
+				"assert_response_has_no_tranasction"
+			],
+			[
+				"_assert",
+				"_assert_response_has_one_tranasction"
+			],
+			[
+				"end_of",
+				"end_of_this_quarter"
+			],
+			[
+				"AccountIni",
+				"AccountInvitationManager\t  [HERE]"
+			],
+			[
+				"INVI",
+				"INVITATION_ACCEPTED\t  [HERE]"
+			],
+			[
+				"get_for",
+				"get_for_user\tfunction"
+			],
+			[
+				"get_fo",
+				"get_for_user\tfunction"
+			],
+			[
+				"ACCESS_",
+				"ACCESS_READONLY\t  [HERE]"
+			],
+			[
+				"get_da",
+				"get_days_in_month\tfunction"
+			],
+			[
+				"To",
+				"TodoItem\t  [HERE]"
+			],
+			[
+				"SQLIndexe",
+				"SQLIndexesByTableView\t  database/views.py"
+			],
+			[
+				"SQLInde",
+				"SQLIndexesByTableView\t  [HERE]"
+			],
+			[
+				"uni",
+				"unique_values\t  database/models.py"
+			],
+			[
+				"min",
+				"minimum\t  database/models.py"
+			],
+			[
+				"vi",
+				"views\t  [HERE]"
+			],
+			[
+				"_convert",
+				"_convert_to_boolean\t  [HERE]"
+			],
+			[
+				"text",
+				"textual_boolean\t  [HERE]"
+			],
+			[
+				"valueDs",
+				"valueDistribution\t  [HERE]"
+			],
+			[
+				"ValueDis",
+				"ValueDistributionSerializer\t  [HERE]"
+			],
+			[
+				"uniqu",
+				"unique_values_list\t  [HERE]"
+			],
+			[
+				"class",
+				"className\t  [HERE]"
+			],
+			[
+				"compon",
+				"componentDidMount\t  components/TableList.js"
+			],
+			[
+				"bs3-ta",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"vie",
+				"viewsets\t  database/viewsets.py"
+			],
+			[
+				"Col",
+				"ColumnSerializer\t  database/serializers.py"
+			],
+			[
+				"other_a",
+				"other_attribute\t  [HERE]"
+			],
+			[
+				"table_",
+				"table_name\t  [HERE]"
+			],
+			[
+				"column_pr",
+				"column_profile\t  [HERE]"
+			],
+			[
+				"col",
+				"column_profile_cache\t  [HERE]"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"SAVEAS",
+				"Project: Save As"
+			],
+			[
+				"closeall",
+				"File: Close All"
+			],
+			[
+				"editp",
+				"Project: Edit Project"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"todore",
+				"TodoReview: Project Files"
+			],
+			[
+				"todorev",
+				"TodoReview: Project Files"
+			],
+			[
+				"todorevi",
+				"TodoReview: Project Files"
+			],
+			[
+				"editpr",
+				"Project: Edit Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ident",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"clsoeall",
+				"File: Close All"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convertspace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"clsoeaal",
+				"Emacs Pro Essentials - Choose and Yank All Cursors"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"showerror",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"disablepac",
+				"Package Control: Disable Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"djago",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"closeal",
+				"File: Close All"
+			],
+			[
+				"addfol",
+				"Project: Add Folder"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"cloeall",
+				"File: Close All"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"disalb",
+				"Package Control: Disable Package"
+			],
+			[
+				"acti",
+				"Activate Materialize Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 420.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/budgets/viewsets.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/budgets/models.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/budgets/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/django_whatyouspend/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/constants.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/tests/test_viewsets.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/factories.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/tests/test_accounts.py",
+		"/Users/jaywhy13/code/django-whatyouspend/pytest.ini",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/user/tests/test_middleware.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/user/tests/test_profile.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/tests/test_accounts.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/dashboard/tests/chart_tests.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/tests/test_dates.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/tests/chart_tests.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/search.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/conftest.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/tests/test_search.py",
+		"/Users/jaywhy13/code/sublime-settings/JavaScript (Babel).sublime-settings",
+		"/Users/jaywhy13/code/sublime-settings/JsPrettier.sublime-settings",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/search/__init__.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/api/permissions.py",
+		"/Users/jaywhy13/code/django-whatyouspend/requirements.txt",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/viewsets.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/transactions/transaction_search.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/api/__init__.py",
+		"/Users/jaywhy13/code/django-whatyouspend/django-whatyouspend.sublime-project",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/models.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/js/lib/socket.io.js",
+		"/Users/jaywhy13/Library/Application Support/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/Users/jaywhy13/Library/Application Support/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/fonts/fontawesome-webfont.svg",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/viewsets.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/budgets/managers.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/dashboard/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/js/chart.config.js",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/charts/constants.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/dashboard/views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/charts/categories.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/charts/__init__.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/partials/chart_js.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templatetags/whatyouspend.py",
+		"/Users/jaywhy13/code/django-whatyouspend/django_whatyouspend/settings.py",
+		"/Users/jaywhy13/code/django-whatyouspend/docker-compose.yml",
+		"/Users/jaywhy13/code/django-whatyouspend/docker/Dockerfile",
+		"/Users/jaywhy13/code/django-whatyouspend/.env",
+		"/Users/jaywhy13/code/django-whatyouspend/django_whatyouspend/conftest.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/models.py",
+		"/Users/jaywhy13/code/django-whatyouspend/Makefile",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/budgets/serializers.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/serializers.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/managers.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/serializers.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/js/transaction.js",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/dashboard.scss",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/font-awesome.min.css",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/transactions/transaction_form.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/documents.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/managers.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/documents.py",
+		"/Users/jaywhy13/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/Users/jaywhy13/Library/Application Support/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/Users/jaywhy13/code/sandbox/elasticsearch/docker-compose.yml",
+		"/Users/jaywhy13/code/sandbox/elasticsearch/Makefile",
+		"/Users/jaywhy13/code/django-whatyouspend/robots.txt",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/user/views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/user/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/dashboard_profile.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/dashboard_base.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/context_processors.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/user/tests/test_views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/navigation.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/home.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/dashboard/__init__.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/base.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/signup.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/login.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/dashboard.css.map",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/management/commands/update_categories.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/models.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/tests/test_profile.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/dates.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/forms.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/dashboard-dropdown.scss",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/dashboard_menu.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/dashboard/profile.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/transactions/transaction_detail.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/colors.scss",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/forms.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/middleware.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/tests/test_middleware.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/migrations/0007_auto_20180906_0248.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/admin.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/forms.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/accounts/urls.py",
+		"/Users/jaywhy13/code/django-whatyouspend/Pipfile",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/accounts/account_form.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/partials/account_table.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/accounts/account_delete.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/accounts/account_list.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/seo.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/tests/test_views.py",
+		"/Users/jaywhy13/code/django-whatyouspend/django_whatyouspend/local_settings.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/colors.css",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/mixins.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/transactions/tests/test_categories.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/base.scss",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/policy_page_base.html",
+		"/Users/jaywhy13/code/django-whatyouspend/.coveragerc",
+		"/Users/jaywhy13/code/django-whatyouspend/tox.ini",
+		"/Users/jaywhy13/code/django-whatyouspend/bitbucket-pipelines.yml",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/home.scss",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/transactions/transaction_list.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/dashboard-pagination.scss",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/dashboard.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/mixins.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/terms_of_use.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/partials/period_pagination_in_title.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/bootstrap.min.css",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/templates/whatyouspend/partials/pagination_by_period.html",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/static/css/dashboard.css",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/session.py",
+		"/Users/jaywhy13/code/django-whatyouspend/whatyouspend/utils.py"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redux-router-upgrade-test.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"budmodel",
+				"whatyouspend/budgets/models.py"
+			],
+			[
+				"budgmodels",
+				"whatyouspend/budgets/models.py"
+			],
+			[
+				"budgeseriali",
+				"whatyouspend/budgets/serializers.py"
+			],
+			[
+				"budgetviewset",
+				"whatyouspend/budgets/viewsets.py"
+			],
+			[
+				"budetviews",
+				"whatyouspend/budgets/tests/test_viewsets.py"
+			],
+			[
+				"tranviwsets",
+				"whatyouspend/transactions/viewsets.py"
+			],
+			[
+				"whatconsta",
+				"whatyouspend/constants.py"
+			],
+			[
+				"budetmodels",
+				"whatyouspend/budgets/models.py"
+			],
+			[
+				"budviewsets",
+				"whatyouspend/budgets/viewsets.py"
+			],
+			[
+				"urls",
+				"django_whatyouspend/urls.py"
+			],
+			[
+				"whaturls",
+				"whatyouspend/urls.py"
+			],
+			[
+				"budgeturls",
+				"whatyouspend/budgets/urls.py"
+			],
+			[
+				"budmodels",
+				"whatyouspend/budgets/models.py"
+			],
+			[
+				"budemodels",
+				"whatyouspend/budgets/models.py"
+			],
+			[
+				"whatfactor",
+				"whatyouspend/factories.py"
+			],
+			[
+				"test_viewset",
+				"whatyouspend/transactions/tests/test_viewsets.py"
+			],
+			[
+				"pytes",
+				"pytest.ini"
+			],
+			[
+				"chart_tests",
+				"whatyouspend/tests/chart_tests.py"
+			],
+			[
+				"traviews",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"whatyouspendtranssearch",
+				"whatyouspend/transactions/search.py"
+			],
+			[
+				"transaviews",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"confte",
+				"whatyouspend/conftest.py"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"transactionviews",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"transactionvei",
+				"whatyouspend/transactions/viewsets.py"
+			],
+			[
+				"tranasctionsearch",
+				"whatyouspend/templates/whatyouspend/transactions/transaction_search.html"
+			],
+			[
+				"tranviewset",
+				"whatyouspend/transactions/viewsets.py"
+			],
+			[
+				"transmodels",
+				"whatyouspend/transactions/models.py"
+			],
+			[
+				"factor",
+				"whatyouspend/factories.py"
+			],
+			[
+				"tramodels",
+				"whatyouspend/transactions/models.py"
+			],
+			[
+				"conftest",
+				"whatyouspend/conftest.py"
+			],
+			[
+				"conftests",
+				"whatyouspend/static/fonts/fontawesome-webfont.svg"
+			],
+			[
+				"test_views",
+				"whatyouspend/transactions/tests/test_viewsets.py"
+			],
+			[
+				"budgetmangers",
+				"whatyouspend/budgets/managers.py"
+			],
+			[
+				"viewsets",
+				"whatyouspend/transactions/viewsets.py"
+			],
+			[
+				"viewset",
+				"whatyouspend/accounts/viewsets.py"
+			],
+			[
+				"tranasctionurls",
+				"whatyouspend/transactions/urls.py"
+			],
+			[
+				"test_accounts",
+				"whatyouspend/accounts/tests/test_accounts.py"
+			],
+			[
+				"test_acc",
+				"whatyouspend/tests/test_accounts.py"
+			],
+			[
+				"dashboardurls",
+				"whatyouspend/dashboard/urls.py"
+			],
+			[
+				"chartjs",
+				"whatyouspend/templates/whatyouspend/partials/chart_js.html"
+			],
+			[
+				"chartconfig",
+				"whatyouspend/static/js/chart.config.js"
+			],
+			[
+				"dashboardviews",
+				"whatyouspend/dashboard/views.py"
+			],
+			[
+				"chart_js",
+				"whatyouspend/templates/whatyouspend/partials/chart_js.html"
+			],
+			[
+				"whatyoudashurls",
+				"whatyouspend/dashboard/urls.py"
+			],
+			[
+				"tranmodels",
+				"whatyouspend/transactions/models.py"
+			],
+			[
+				"sett",
+				"django_whatyouspend/settings.py"
+			],
+			[
+				"settings",
+				"django_whatyouspend/settings.py"
+			],
+			[
+				"reu",
+				"requirements.txt"
+			],
+			[
+				"Dockerfile",
+				"docker/Dockerfile"
+			],
+			[
+				"docker-com",
+				"docker-compose.yml"
+			],
+			[
+				"setting",
+				"django_whatyouspend/settings.py"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"set",
+				"django_whatyouspend/settings.py"
+			],
+			[
+				"pyte",
+				"pytest.ini"
+			],
+			[
+				"conftes",
+				"whatyouspend/conftest.py"
+			],
+			[
+				"tranveiws",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"pyt",
+				"pytest.ini"
+			],
+			[
+				"accountmodels",
+				"whatyouspend/accounts/models.py"
+			],
+			[
+				"reui",
+				"requirements.txt"
+			],
+			[
+				"makefile",
+				"Makefile"
+			],
+			[
+				"managers",
+				"whatyouspend/budgets/managers.py"
+			],
+			[
+				"vieset",
+				"whatyouspend/accounts/viewsets.py"
+			],
+			[
+				"bugmodels",
+				"whatyouspend/budgets/models.py"
+			],
+			[
+				"serializ",
+				"whatyouspend/accounts/serializers.py"
+			],
+			[
+				"manaer",
+				"whatyouspend/managers.py"
+			],
+			[
+				"accounmodels",
+				"whatyouspend/accounts/models.py"
+			],
+			[
+				"fontawseomcss",
+				"whatyouspend/static/css/font-awesome.min.css"
+			],
+			[
+				"dashboardscs",
+				"whatyouspend/static/css/dashboard.scss"
+			],
+			[
+				"tanjs",
+				"whatyouspend/static/js/transaction.js"
+			],
+			[
+				"tranviews",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"tranasdocu",
+				"whatyouspend/transactions/documents.py"
+			],
+			[
+				"document",
+				"whatyouspend/documents.py"
+			],
+			[
+				"tranasctionjs",
+				"whatyouspend/static/js/transaction.js"
+			],
+			[
+				"transaction_fo",
+				"whatyouspend/templates/whatyouspend/transactions/transaction_form.html"
+			],
+			[
+				"manager",
+				"whatyouspend/transactions/managers.py"
+			],
+			[
+				"dashburls",
+				"whatyouspend/dashboard/urls.py"
+			],
+			[
+				"tranurls",
+				"whatyouspend/transactions/urls.py"
+			],
+			[
+				"views",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"transviews",
+				"whatyouspend/transactions/views.py"
+			],
+			[
+				"trandocuem",
+				"whatyouspend/transactions/documents.py"
+			],
+			[
+				"makefi",
+				"Makefile"
+			],
+			[
+				"docker-comp",
+				"docker-compose.yml"
+			],
+			[
+				"whatyourls",
+				"whatyouspend/urls.py"
+			],
+			[
+				"whatyouuserviews",
+				"whatyouspend/user/views.py"
+			],
+			[
+				"userurls",
+				"whatyouspend/user/urls.py"
+			],
+			[
+				"context",
+				"whatyouspend/context_processors.py"
+			],
+			[
+				"whatyouurls",
+				"whatyouspend/urls.py"
+			],
+			[
+				"dasviews",
+				"whatyouspend/dashboard/views.py"
+			],
+			[
+				"whatyouviews",
+				"whatyouspend/views.py"
+			],
+			[
+				"omeht",
+				"whatyouspend/templates/whatyouspend/home.html"
+			],
+			[
+				"baseh",
+				"whatyouspend/templates/whatyouspend/base.html"
+			],
+			[
+				"dashboardsc",
+				"whatyouspend/static/css/dashboard.scss"
+			],
+			[
+				"factro",
+				"whatyouspend/factories.py"
+			],
+			[
+				"dashboarcssmap",
+				"whatyouspend/static/css/dashboard.css.map"
+			],
+			[
+				"models",
+				"whatyouspend/models.py"
+			],
+			[
+				"consta",
+				"whatyouspend/constants.py"
+			],
+			[
+				"upate_ca",
+				"whatyouspend/management/commands/update_categories.py"
+			],
+			[
+				"dashboard_bas",
+				"whatyouspend/templates/whatyouspend/dashboard_base.html"
+			],
+			[
+				"dashboarscs",
+				"whatyouspend/static/css/dashboard.scss"
+			],
+			[
+				"accountviews",
+				"whatyouspend/accounts/views.py"
+			],
+			[
+				"whatyouforms",
+				"whatyouspend/forms.py"
+			],
+			[
+				"whatyoumodels",
+				"whatyouspend/models.py"
+			],
+			[
+				"userviews",
+				"whatyouspend/user/views.py"
+			],
+			[
+				"dashborad_prof",
+				"whatyouspend/templates/whatyouspend/dashboard_profile.html"
+			],
+			[
+				"dashboard_menu",
+				"whatyouspend/templates/whatyouspend/dashboard_menu.html"
+			],
+			[
+				"dashscs",
+				"whatyouspend/static/css/dashboard.scss"
+			],
+			[
+				"colorsc",
+				"whatyouspend/static/css/colors.scss"
+			],
+			[
+				"transform",
+				"whatyouspend/templates/whatyouspend/transactions/transaction_form.html"
+			],
+			[
+				"tranasction_detail",
+				"whatyouspend/templates/whatyouspend/transactions/transaction_detail.html"
+			],
+			[
+				"forms",
+				"whatyouspend/accounts/forms.py"
+			],
+			[
+				"whatoyouviews",
+				"whatyouspend/accounts/views.py"
+			],
+			[
+				"settin",
+				"django_whatyouspend/settings.py"
+			],
+			[
+				"form",
+				"whatyouspend/transactions/forms.py"
+			],
+			[
+				"trandetail",
+				"whatyouspend/templates/whatyouspend/transactions/transaction_detail.html"
+			],
+			[
+				"whatyouadmin",
+				"whatyouspend/admin.py"
+			],
+			[
+				"baseht",
+				"whatyouspend/templates/whatyouspend/base.html"
+			],
+			[
+				"seting",
+				"django_whatyouspend/settings.py"
+			],
+			[
+				"login",
+				"whatyouspend/templates/whatyouspend/login.html"
+			],
+			[
+				"signup",
+				"whatyouspend/templates/whatyouspend/signup.html"
+			],
+			[
+				"ipfile",
+				"Pipfile"
+			],
+			[
+				"accounturls",
+				"whatyouspend/accounts/urls.py"
+			],
+			[
+				"account_fo",
+				"whatyouspend/templates/whatyouspend/accounts/account_form.html"
+			],
+			[
+				"account_dele",
+				"whatyouspend/templates/whatyouspend/accounts/account_delete.html"
+			],
+			[
+				"ccountforms",
+				"whatyouspend/accounts/forms.py"
+			],
+			[
+				"account_ta",
+				"whatyouspend/templates/whatyouspend/partials/account_table.html"
+			],
+			[
+				"account_lis",
+				"whatyouspend/templates/whatyouspend/accounts/account_list.html"
+			],
+			[
+				"seo",
+				"whatyouspend/seo.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"whatyou",
+				"~/code/django-whatyouspend/django-whatyouspend.sublime-project"
+			],
+			[
+				"",
+				"~/code/django-whatyouspend/django-whatyouspend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
