@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-
 import { connect } from 'react-redux';
+import { withRouter } from 'react-router';
 
 export class EntryDetail extends Component {
   render() {
@@ -14,12 +14,13 @@ export class EntryDetail extends Component {
   }
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state, ownProps) => {
+  console.log('ownProps', ownProps);
   const entries = state.app.entries;
-  const entryId = state.router.params.id;
+  const entryId = ownProps.match.params.id;
   return {
     entry: entries.find(entry => entry.id === entryId),
   };
 };
 
-export default connect(mapStateToProps)(EntryDetail);
+export default withRouter(connect(mapStateToProps)(EntryDetail));
