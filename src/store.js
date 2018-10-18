@@ -1,18 +1,15 @@
 import { entries } from './reducers';
-import { routerStateReducer, reduxReactRouter } from 'redux-router';
 import { combineReducers, createStore, compose, applyMiddleware } from 'redux';
-import { createHistory } from 'history';
+import { createBrowserHistory } from 'history';
 import thunk from 'redux-thunk';
-import { routes } from './routes';
+import { connectRouter, routerMiddleware } from 'connected-react-router';
 
-const reducer = combineReducers({ app: entries, router: routerStateReducer });
+const history = createBrowserHistory();
+const reducer = combineReducers({ app: entries });
 
-const store = compose(
-  applyMiddleware(thunk),
-  reduxReactRouter({
-    routes,
-    createHistory,
-  }),
-)(createStore)(reducer);
+const store = createStore(
+  connectRouter(history)(reducer),
+  compose(applyMiddleware(routerMiddleware(history), thunk)),
+);
 
-export { store };
+export { store, history };
